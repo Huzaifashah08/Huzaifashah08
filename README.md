@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi, I'm M. Huzaifa 👋</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Automation;Web+Enthusiast;Ecomerence+Developer;Graphics+Designer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=350&size=40&duration=3000&pause=800&center=true&width=435&lines=Automation;Web+Enthusiast;Ecomerence+Developer;Graphics+Designer" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://github.com/Huzaifashah08">
