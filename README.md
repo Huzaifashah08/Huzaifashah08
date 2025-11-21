@@ -1,35 +1,45 @@
 <!--
+  Premium & Advanced GitHub Profile README
   Hi there 👋 I’m M. Huzaifa
-  GitHub Profile README - Premium & Advanced
 -->
 
 <h1 align="center">Hi, I'm M. Huzaifa 👋</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=800&background=FFFFFF00&center=true&width=435&lines=Automation;Web+Enthusiast;Ecomerence+Developer;Graphics+Designer" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=800&background=FFFFFF00&center=true&width=500&lines=Automation+Enthusiast;Web+Developer;AI+Innovator;Graphics+Designer" alt="Typing SVG"/>
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://github.com/Huzaifashah08">
-    <img src="https://img.shields.io/badge/GitHub-Huzaifashah08-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Huzaifashah08" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://www.linkedin.com/in/huzaifashah08">
-    <img src="https://img.shields.io/badge/LinkedIn-M.Huzaifa-0A66C2?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/huzaifashah08" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" />
   </a>
-  <a href="mailto:huzaifa@example.com">
-    <img src="https://img.shields.io/badge/Email-M.Huzaifa-D14836?style=for-the-badge&logo=gmail" />
+  <a href="mailto:huzaifa@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B2312F" />
+  </a>
+  <a href="https://www.youtube.com/@huzaifashah08" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000" />
   </a>
 </p>
 
 ---
 
 ## 💡 About Me
-I’m a passionate **Automation, Web, and SaaS enthusiast**.  
-I love building **tools, games, and smart solutions** to make life easier and more fun.  
-My main focus areas: **Web Development, Automation Systems, AI in Sports & Digital Products**.  
+I’m a **passionate Automation, Web, and SaaS enthusiast**.  
+I love building **tools, games, and smart solutions** that make life easier & fun.  
 
-- 🌱 Currently exploring **AI + SaaS automation**  
-- ⚡ I like building **cool interactive tools** like QR code generators, drawing apps, and automation dashboards  
-- 🎮 Gamer at heart: Call of Duty & Chess strategist  
-- 💬 Fun fact: I make complex things look “Not So Tough”  
+- 🌱 Exploring **AI + SaaS Automation**  
+- ⚡ Building **interactive tools** like QR Generators, Drawing Apps, Dashboards  
+- 🎮 Gamer at heart: Call of Duty & Chess Strategist  
+- 💬 Motto: _"Making complex things look **Not So Tough**"_  
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/38/bf/8c/38bf8c31c11789b2da65dff43c401ea2.gif" width="250" alt="Coding Animation" />
+</p>
 
 ---
 
@@ -43,6 +53,10 @@ My main focus areas: **Web Development, Automation Systems, AI in Sports & Digit
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/dennismorello/animated-github-profile-readme/blob/main/assets/skills-animation.gif?raw=true" width="600" />
 </p>
 
 ---
@@ -68,13 +82,16 @@ My main focus areas: **Web Development, Automation Systems, AI in Sports & Digit
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://github.com/Huzaifashah08" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Huzaifashah08-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
   <a href="https://www.linkedin.com/in/huzaifashah08" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-M.Huzaifa-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" />
   </a>
-  <a href="https://twitter.com/huzaifashah08" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@Huzaifashah08-1DA1F2?style=for-the-badge&logo=twitter" />
+  <a href="mailto:huzaifa@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B2312F" />
+  </a>
+  <a href="https://www.youtube.com/@huzaifashah08" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000" />
   </a>
 </p>
 
@@ -82,4 +99,8 @@ My main focus areas: **Web Development, Automation Systems, AI in Sports & Digit
 
 <p align="center">
   Made with ❤️ by <strong>M.Huzaifa</strong>
+</p>
+
+<p align="center">
+  <img src="https://media.baamboozle.com/uploads/images/1118416/1674471406_80419_gif-url.gif" width="80" alt="Thank You Animation" />
 </p>
