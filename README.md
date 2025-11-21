@@ -38,7 +38,7 @@ I love building **tools, games, and smart solutions** that make life easier & fu
 - 💬 Motto: _"Making complex things look **Not So Tough**"_  
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/38/bf/8c/38bf8c31c11789b2da65dff43c401ea2.gif" width="250" alt="Coding Animation" />
+  <img src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif" width="250" alt="Coding Animation" />
 </p>
 
 ---
