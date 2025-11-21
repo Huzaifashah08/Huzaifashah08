@@ -4,7 +4,8 @@
 -->
 
 <h1 align="center">Hi, I'm M. Huzaifa 👋</h1>
-<h3 align="center">Automation & Web Enthusiast | SaaS Tools | QR Code Creator</h3>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Automation;Web+Enthusiast;Ecomerence+Developer;Graphics+Designer" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://github.com/Huzaifashah08">
