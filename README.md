@@ -98,9 +98,5 @@ I love building **tools, games, and smart solutions** that make life easier & fu
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>M.Huzaifa</strong>
-</p>
-
-<p align="center">
-  <img src="https://media.baamboozle.com/uploads/images/1118416/1674471406_80419_gif-url.gif" width="80" alt="Thank You Animation" />
+  <img src="https://media.baamboozle.com/uploads/images/1118416/1674471406_80419_gif-url.gif" width="100" alt="Thank You Animation" />
 </p>
