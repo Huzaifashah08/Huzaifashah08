@@ -81,19 +81,20 @@ I love building **tools, games, and smart solutions** that make life easier & fu
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://github.com/Huzaifashah08" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  <a href="https://github.com/Huzaifashah08">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=plastic&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/huzaifashah08" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" />
+  <a href="https://www.linkedin.com/in/huzaifashah08">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=plastic&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:huzaifa@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B2312F" />
+  <a href="mailto:huzaifa@example.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=plastic&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@huzaifashah08" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000" />
+  <a href="https://www.youtube.com/@huzaifashah08">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=plastic&logo=youtube&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
