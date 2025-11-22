@@ -8,7 +8,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMHp3bWhhYXBwdnE1ZXF5emd5YzVtYnVnYmw0bmM1anZjeGJibWh6byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" 
        alt="GIF" 
        height="38" 
-       style="vertical-align: middle; margin-left: 8px;">
+       style="vertical-align: middle; margin-left: 8px; margin-top: 6px;">
 </h1>
 
 <p align="center">
